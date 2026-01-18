@@ -1,0 +1,25 @@
+# Core Dependencies
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+pytesseract>=0.3.10
+numpy>=1.24.0
+pandas>=2.0.0
+
+# OpenAI and RAG
+openai>=1.0.0
+chromadb>=0.4.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Configuration
+python-dotenv>=1.0.0
+
+# Optional: For advanced ML features (if needed)
+# transformers>=4.30.0
+# torch>=2.0.0
+# peft>=0.4.0
+# trl>=0.4.0
+# datasets>=2.14.0
+# gradio>=3.40.0
+# huggingface-hub>=0.16.0
